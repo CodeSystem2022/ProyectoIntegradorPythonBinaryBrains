@@ -33,14 +33,14 @@
 
 La página inicial mostrará 2 opciones: Gestión de Beneficiarios y Gestión de Asistencias. En la parte inferior se mostrarán los integrantes del grupo y enlaces para acceder a LinkedIn y GitHub de cada uno.
 
-#### En Gestión de Beneficiarios
+#### En Gestión de Beneficiarios:
 
 - Tendrás las opciones de crear beneficiario y volver a la página principal.
 - Luego se mostrará el listado de beneficiarios con las opciones de modificar y eliminar.
 - Si elige la opción de crear beneficiario, se abrirá un formulario para registrar: Nombre y Apellido, DNI, Fecha de nacimiento, Edad, Rama. Al pie tendrás la opción de guardar y volver a la página principal.
 - Al guardar, los datos se almacenarán en la base de datos y volverá a la página inicial.
 
-#### En Gestión de Asistencias
+#### En Gestión de Asistencias:
 
 - Tendrás las opciones de crear asistencia y volver a la página principal.
 - Se mostrará el listado de asistencias tomadas, especificando el beneficiario, la fecha y el estado de la asistencia, además de las opciones de modificar y eliminar.
